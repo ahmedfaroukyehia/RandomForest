@@ -282,7 +282,7 @@ The arguments should be on the following format:
 
 To get a description of a loaded dataset:
 
-    julia> describe_data(data)
+    julia> describe_data()
 
 - - - - -
 
